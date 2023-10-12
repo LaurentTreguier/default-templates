@@ -1,6 +1,6 @@
 # Default project templates
 
-## What this is and why it exists
+## What is this, and why does it exist?
 
 Most IDEs can create new projects according to a predefined template. This allows us developers to quickly get started with a hopefully sane default configuration, and start coding away without having to worry about setting up an entire build system beforehand.
 
@@ -12,6 +12,12 @@ This repository contains default, unmodified starting projects from various IDEs
 
 Each git branch corresponds to an IDE. Just switch to whichever one interests you, and browse the commits to see the changes.
 
-## Notes
+## What IDEs and project templates are tracked?
 
-This is not intended to be exhaustive. The focus is specifically on mobile platforms (Android Studio and XCode), although some others might join the party later.
+This repository is not intended to be track a complete and exhaustive list of IDEs. The focus here is mainly on projects for native platform apps, although some others might join the party later.
+
+Currently, the targets are the following:
+- XCode: SwiftUI apps
+- Android Studio: Compose apps
+- GNOME Builder: GNOME apps
+- Visual Studio: UWP apps
