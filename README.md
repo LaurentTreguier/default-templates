@@ -11,3 +11,7 @@ This repository contains default, unmodified starting projects from various IDEs
 ## How do I use it?
 
 Each git branch corresponds to an IDE. Just switch to whichever one interests you, and browse the commits to see the changes.
+
+## Notes
+
+This is not intended to be exhaustive. The focus is specifically on mobile platforms (Android Studio and XCode), although some others might join the party later.
