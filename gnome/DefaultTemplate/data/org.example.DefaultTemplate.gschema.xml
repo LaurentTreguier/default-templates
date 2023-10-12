@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="defaulttemplate">
+	<schema id="org.example.DefaultTemplate" path="/org/example/DefaultTemplate/">
+	</schema>
+</schemalist>

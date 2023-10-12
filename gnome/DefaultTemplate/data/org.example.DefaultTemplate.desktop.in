@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=defaulttemplate
+Exec=defaulttemplate
+Icon=org.example.DefaultTemplate
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
