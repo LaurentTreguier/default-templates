@@ -19,5 +19,6 @@ This repository is not intended to be track a complete and exhaustive list of ID
 Currently, the targets are the following:
 - XCode: SwiftUI apps
 - Android Studio: Compose apps
-- GNOME Builder: GNOME apps
 - Visual Studio: UWP apps
+- GNOME Builder: GNOME apps
+- KDevelop: Kirigami apps
