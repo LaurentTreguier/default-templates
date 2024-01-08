@@ -2,7 +2,7 @@
 //  Item.swift
 //  DefaultTemplate
 //
-//  Created by Laurent Tréguier on 16/12/2023.
+//  Created by Laurent Tréguier on 08/01/2024.
 //
 
 import Foundation
